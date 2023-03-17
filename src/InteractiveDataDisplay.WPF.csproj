@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>InteractiveDataDisplay.WPF</RootNamespace>
     <AssemblyName>InteractiveDataDisplay.WPF</AssemblyName>
-    <TargetFrameworks>net452;net46</TargetFrameworks>
+    <TargetFrameworks>net46</TargetFrameworks>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
